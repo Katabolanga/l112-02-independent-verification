@@ -1,0 +1,22 @@
+[    0.1 s] agent 112 (X3_gram.txt) sha256 318de69e4cfabd6d4ed3deecd6634281d132719376fb96d97eac16d0743035d2
+[    0.1 s] [ok]   agent 112 (X3_gram.txt) : 112 x 112 entiere symetrique
+[    0.1 s] [ok]   agent 112 (X3_gram.txt) : paire (diagonale paire)
+[    0.4 s] [ok]   agent 112 (X3_gram.txt) : det = 1 (Bareiss exact)
+[    7.1 s] [ok]   agent 112 (X3_gram.txt) : definie positive (LDL exacte en rationnels) ; rang 112
+[    7.2 s] roiban (genus_class_1.txt) sha256 5cd1e260ef349ed700bc900b0fddc6990c179e4d0839a06e82c10355c3926c22
+[    7.2 s] [ok]   roiban (genus_class_1.txt) : 112 x 112 entiere symetrique
+[    7.2 s] [ok]   roiban (genus_class_1.txt) : paire (diagonale paire)
+[    7.6 s] [ok]   roiban (genus_class_1.txt) : det = 1 (Bareiss exact)
+[   15.9 s] [ok]   roiban (genus_class_1.txt) : definie positive (LDL exacte en rationnels) ; rang 112
+[   16.0 s] [ok]   agent 112 : generateur de S isometrie entiere de X3
+[   16.0 s] [ok]   agent 112 : generateur de S isometrie entiere de X3
+[  167.7 s] [ok]   agent 112 : |<generateurs>| = 24360 (SL_2(29))
+[  167.7 s] [ok]   agent 112 : -I dans le groupe
+[  178.6 s] [ok]   U(Lambda_1) : 12 isometries entieres de X1
+[  178.9 s] [ok]   U abelien
+[  179.0 s] [ok]   U d'exposant 6 (u^6 = 1)
+[  179.0 s] [ok]   S : isometries entieres de X1
+[  179.1 s] [ok]   U commute a S
+[  179.1 s] [ok]   S ∩ U = {+-1} : seuls +-I de U sont dans le centre (U agit fidelement sur Lambda_1)
+[  179.1 s] |G0| = |S| |U| / |S ∩ U| = 24360 x 12 / 2 = 146160
+[  179.9 s] ecrit U_X1_base_roiban.npz

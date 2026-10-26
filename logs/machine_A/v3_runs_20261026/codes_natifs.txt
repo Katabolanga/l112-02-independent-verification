@@ -1,0 +1,7 @@
+test0a (3 arguments) code natif 2
+test0b (source absente) code natif 2
+test0c (certificats absents) code natif 2
+phi_v3_X1 code natif 0
+independante_v3_X1 code natif 0
+independante_v3_X4 code natif 0
+FINI

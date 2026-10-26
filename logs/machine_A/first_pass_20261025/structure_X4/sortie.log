@@ -1,0 +1,56 @@
+[    0.0 s] entree data/L56_gram.txt sha256 4d13bd51fcf3cb8c5706bde45828713d7eeb4d18a37e8e9d84fb2700f4bef2f0
+[    0.0 s] entree data/sl2_29_generators.txt sha256 97f88443de1fd1fdeb010ecb668dbbb03a8e0e989a18c0ad85a751687012ad90
+[    0.0 s] entree certificates/genus_basis_4.txt sha256 d2091a1c3123f97b6561123fc98a797331e493641bfb22a104e70cc101302853
+[    0.0 s] entree certificates/genus_class_4.txt sha256 3f0564ce8893f7564161006263535351f3b6762957670fae3104505296985c5b
+[    0.0 s] entree certificates/commutant.npz sha256 391e06c4ae59438a8cfea7baab176955987a3c7296515b5a67d91c28293c41b5
+[    0.1 s] [ok]   8 elements de base de M'
+[    0.2 s] [ok]   G pair, det 1
+[    0.2 s] [ok]   G_X pair, det 1
+[    0.2 s] [ok]   g G g^T = G
+[    0.2 s] [ok]   g G g^T = G
+[    0.2 s] [ok]   m_k commute a g1, g2
+[    0.2 s] [ok]   m_k commute a g1, g2
+[    0.2 s] [ok]   m_k commute a g1, g2
+[    0.2 s] [ok]   m_k commute a g1, g2
+[    0.2 s] [ok]   m_k commute a g1, g2
+[    0.2 s] [ok]   m_k commute a g1, g2
+[    0.2 s] [ok]   m_k commute a g1, g2
+[    0.2 s] [ok]   m_k commute a g1, g2
+[    0.2 s] [ok]   D diag(G,G) D^T = 2 d^2 G_X (d = 25)
+[    0.4 s] [ok]   diag(g, g) agit sur X1 (matrice entiere, isometrie)
+[    0.5 s] [ok]   diag(g, g) agit sur X1 (matrice entiere, isometrie)
+[    2.6 s] [ok]   rang 16
+[    3.5 s] [ok]   Lambda~ : base exacte (c M16 entier pour chaque ligne)
+[    3.5 s] Lambda~ : denominateur de la base 25  ; |det| = 256
+[    9.0 s] [ok]   forme T symetrique
+[    9.0 s] forme T : denominateur 2 ; diagonale [2500, 19193811799827696875, 3073030104398836875, 13465080748090648750, 2601427181955977144, 1104461401782530129, 433106337052365805, 6697305636403781709, 2932676514599117868, 1829850297255926147, 680435790464641442, 73744808307891481, 1942859888597658245, 246794300969153636, 630926936970133427, 1683504496000816427]
+[    9.0 s] [ok]   forme T definie positive
+[    9.0 s] [ok]   qfminim : 2 x colonnes = compte
+[    9.1 s] vecteurs de T <= 4 (un par paire) : 18
+[   10.1 s] candidats mu avec h~(mu, mu) = 2 : 18 (paires)
+[   10.1 s] [ok]   au moins un mu avec h~ = 2
+[   10.2 s] [ok]   un mu donne Y2 primitif dans X1
+[   10.2 s] mu choisi (coordonnees dans la base de Lambda~) : [730, 685, 556, 443, 227, 561, 403, 928, 592, 446, 784, 505, 574, -81, -16, 608]
+[   10.2 s] [ok]   Gram(Y2) = 2 G
+[   11.3 s] [ok]   Y1 de rang 56
+[   11.3 s] [ok]   Gram(Y1) a coefficients pairs
+[   11.3 s] [ok]   G_L = Gram(Y1)/2 pair, det 1
+[   12.2 s] [ok]   U unimodulaire
+[   12.2 s] G_L reduite : diagonale min/max 6 14
+[   12.2 s] [ok]   G_L pair det 1
+[   12.2 s] [ok]   Y2 . g_X = g . Y2 (g = g1 agit comme sur L~)
+[   12.4 s] [ok]   action de g1 sur L entiere, isometrie
+[   12.4 s] [ok]   Y2 . g_X = g . Y2 (g = g2 agit comme sur L~)
+[   12.6 s] [ok]   action de g2 sur L entiere, isometrie
+[   12.6 s] [ok]   |det [Y1; Y2]| = 2^56
+[   12.6 s] [ok]   2 [Y1; Y2]^-1 entiere
+[   12.7 s] [ok]   Gamma de rang 56
+[   12.7 s] [ok]   projection sur x bijective (pivots dans les 56 premieres colonnes)
+[   12.7 s] [ok]   f inversible
+[   12.7 s] [ok]   f equivariante : h1 f = f g1 (mod 2)
+[   12.7 s] [ok]   f equivariante : h2 f = f g2 (mod 2)
+[   12.9 s] [ok]   f preserve la parite (200 tests aleatoires)
+[   13.2 s] [ok]   X1 = {(x Y1 + v Y2)/2 : v = x f mod 2} sur la base de X1
+[   13.4 s] ecrit <LOT>/R112_X1_EFFORT_MAX_20261025/sorties/structure_X4/structure_X4.npz
+[   13.4 s] FIN structure_x1 : X1 est le recollement modulo 2 de L = Y1/sqrt2 (G_L) et de L~ = L56 (G) le long de f
+code 0

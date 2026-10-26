@@ -1,0 +1,55 @@
+[    0.0 s] structure <LOT>/R112_X1_EFFORT_MAX_20261025/sorties/structure_x1/structure_x1.npz sha256 33ec8ffda0cb3ec5094f2ac88e31614f74746d63d7e28c621db60398f1cebe4c
+[   30.3 s] [ok]   |<h1, h2>| = 24360
+[   31.2 s] [ok]   12180 elements modulo +-1
+[   31.2 s] max |coefficient| des elements de S_L : 80
+[   40.0 s] max |coefficient| des inverses : 80
+[   40.1 s] [ok]   borne d'exactitude float64 de la moyenne (0)
+[   41.4 s] [ok]   moyenne entiere (float64 exact)
+[   41.4 s] [ok]   borne d'exactitude float64 de la moyenne (1)
+[   42.6 s] [ok]   moyenne entiere (float64 exact)
+[   42.6 s] [ok]   borne d'exactitude float64 de la moyenne (2)
+[   43.7 s] [ok]   moyenne entiere (float64 exact)
+[   43.7 s] [ok]   borne d'exactitude float64 de la moyenne (3)
+[   44.7 s] [ok]   moyenne entiere (float64 exact)
+[   44.7 s] [ok]   borne d'exactitude float64 de la moyenne (4)
+[   46.2 s] [ok]   moyenne entiere (float64 exact)
+[   46.2 s] [ok]   borne d'exactitude float64 de la moyenne (5)
+[   47.5 s] [ok]   moyenne entiere (float64 exact)
+[   47.6 s] [ok]   borne d'exactitude float64 de la moyenne (6)
+[   48.8 s] [ok]   moyenne entiere (float64 exact)
+[   48.8 s] [ok]   borne d'exactitude float64 de la moyenne (7)
+[   50.1 s] [ok]   moyenne entiere (float64 exact)
+[   50.1 s] [ok]   borne d'exactitude float64 de la moyenne (8)
+[   51.5 s] [ok]   moyenne entiere (float64 exact)
+[   51.5 s] [ok]   borne d'exactitude float64 de la moyenne (9)
+[   52.7 s] [ok]   moyenne entiere (float64 exact)
+[   52.7 s] [ok]   borne d'exactitude float64 de la moyenne (10)
+[   53.8 s] [ok]   moyenne entiere (float64 exact)
+[   53.8 s] [ok]   borne d'exactitude float64 de la moyenne (11)
+[   55.3 s] [ok]   moyenne entiere (float64 exact)
+[   55.3 s] [ok]   borne d'exactitude float64 de la moyenne (12)
+[   57.0 s] [ok]   moyenne entiere (float64 exact)
+[   57.0 s] [ok]   borne d'exactitude float64 de la moyenne (13)
+[   58.4 s] [ok]   moyenne entiere (float64 exact)
+[   58.4 s] rang de l'espace engendre par les moyennes : 8
+[   58.4 s] [ok]   commutant de rang 8
+[   58.7 s] [ok]   8 elements de base
+[   58.7 s] [ok]   element du commutant (commute a h1, h2)
+[   58.7 s] [ok]   element du commutant (commute a h1, h2)
+[   58.7 s] [ok]   element du commutant (commute a h1, h2)
+[   58.7 s] [ok]   element du commutant (commute a h1, h2)
+[   58.7 s] [ok]   element du commutant (commute a h1, h2)
+[   58.7 s] [ok]   element du commutant (commute a h1, h2)
+[   58.7 s] [ok]   element du commutant (commute a h1, h2)
+[   58.7 s] [ok]   element du commutant (commute a h1, h2)
+[   58.7 s] [ok]   1 dans End_S(L) (coordonnees entieres)
+[   59.6 s] [ok]   End_S(L) stable par produit (ordre)
+[   59.9 s] [ok]   forme q entiere, definie positive
+[   59.9 s] forme trace Tr trd(xy) : det = 707281 (ordre maximal : +-29^4 = 707281)
+[   59.9 s] [ok]   reduction LLL de q unimodulaire
+[   59.9 s] enumeration exacte : vecteurs avec q <= 56 : 24  valeurs : [56]
+[   60.0 s] isometries trouvees (deux signes) : 24
+[   60.0 s] [ok]   qfminim de PARI : meme nombre de vecteurs (q <= 56)
+[   60.0 s] [ok]   |C_L| = 24 (L = L_{56,2}(M), centralisateur d'ordre 24)
+[   60.3 s] [ok]   12 elements de C_L modulo +-1
+[   77.1 s] ecrit <LOT>/R112_X1_EFFORT_MAX_20261025/sorties/donnees_L/donnees_L.npz

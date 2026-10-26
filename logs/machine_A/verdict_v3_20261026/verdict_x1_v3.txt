@@ -1,0 +1,16 @@
+VERDICT X1 (regle propre a X1, verdict_x1_v3.py) -- 2026-10-26 09:33:17
+
+[PASS] 88-impl1       (8,8) premiere implementation : 0 touche sur 1 528 956 paires, code 0  -- paires 1528956, touches 0
+[PASS] 88-impl2       (8,8) seconde implementation : 0 touche, F3 de L recompte (1 528 956 paires, 1 517 130 orbites), BILAN OK, code natif 0
+[PASS] psi-impl2      type (10,6), cote psi, seconde implementation : 5 controles ok
+[PASS] phi-impl2-int16 types (6,6), (6,10), cote phi, seconde implementation corrigee (int16) : 5 controles ok
+[PASS] phi-int64      cote phi, rejeu exact verif_phi_L56_int64.py (sortie_v2.log) : controles ok dont la classe, BILAN OK, code 0
+[PASS] phi-impl1      types (6,6), (6,10), cote phi, premiere implementation : 656 certificats valides, 0 collision
+[PASS] psi-impl1      type (10,6), cote psi, premiere implementation : 656 certificats valides, 0 collision
+[PASS] F1-L56         F1 cote L56 : enum_interval (intervalles), une seule feuille, done, CODE NATIF 0 (codes.txt)
+[PASS] F1-L           F1 cote L : rejeu natif, CODE NATIF 0, meme entree et meme binaire (SHA), une feuille, done  -- code_natif.txt = 'code natif 0' ; entree identique True ; binaire identique True
+[PASS] cover6         couverture des vecteurs minimaux de L : 656 orbites, 7 795 200 = |L_6|/2 (cover6)
+[PASS] cover8         couverture des vecteurs de norme 8 de L : 1 517 130 orbites regulieres, somme 36 957 286 800 = |L_8| (cover8)
+[PASS] parite         parite du recollement : D = G_L - f G f^t, 56 diagonales = 0 mod 4 et 1 540 hors diagonale = 0 mod 2 (recalcule ici)  -- 56 + 1540 congruences vraies sur 1 596
+
+VERDICT : CONFORME (toutes les conditions de la regle propre a X1 sont lues PASS)

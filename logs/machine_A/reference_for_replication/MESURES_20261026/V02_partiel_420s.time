@@ -1,0 +1,24 @@
+Command exited with non-zero status 124
+	Command being timed: "bash -c ulimit -v 6291456; exec timeout 420 nice -n 19 '<MACHINE_A>/miniforge3/envs/g6k/bin/python' -I '<LOT>/R112_X1_REPLICATION_MACHINE_B_PAQUET_20261026/PAQUET_X1_REP_V1/scripts/verif_independante_int16_v3.py' '<LOT>/R112_X1_REPLICATION_MACHINE_B_PAQUET_20261026/PAQUET_X1_REP_V1/DONNEES_FIGEES/roiban_112' '<LOT>/R112_X1_REPLICATION_MACHINE_B_PAQUET_20261026/PAQUET_X1_REP_V1/DONNEES_FIGEES/X1/structure_x1.npz' '<LOT>/R112_X1_REPLICATION_MACHINE_B_PAQUET_20261026/PAQUET_X1_REP_V1/DONNEES_FIGEES/X1/donnees_L.npz' '<LOT>/R112_X1_REPLICATION_MACHINE_B_PAQUET_20261026/PAQUET_X1_REP_V1/DONNEES_FIGEES/X1/norm8_reps_L.npz' '<LOT>/R112_X1_REPLICATION_MACHINE_B_PAQUET_20261026/PAQUET_X1_REP_V1/DONNEES_FIGEES/X1/min_reps_L.npz' '<LOT>/R112_X1_REPLICATION_MACHINE_B_PAQUET_20261026/PAQUET_X1_REP_V1/DONNEES_FIGEES/X1/certificats_X1' '<MACHINE_A>/x1rep_mesures_20261026/bin/formes_canoniques' '<MACHINE_A>/x1rep_mesures_20261026/V02_partiel' 1"
+	User time (seconds): 19.80
+	System time (seconds): 2.31
+	Percent of CPU this job got: 5%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 7:00.05
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1974404
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 8
+	Minor (reclaiming a frame) page faults: 120926
+	Voluntary context switches: 988
+	Involuntary context switches: 35
+	Swaps: 0
+	File system inputs: 960
+	File system outputs: 45232
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 124

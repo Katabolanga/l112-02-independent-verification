@@ -1,0 +1,48 @@
+{
+ "step": "collisions8_X1",
+ "passed": true,
+ "error": null,
+ "checks": [
+  {
+   "check": "unites : isometries de L",
+   "ok": true
+  },
+  {
+   "check": "rejeu de v4 : passed",
+   "ok": true
+  },
+  {
+   "check": "rejeu de v4 : memes fichiers d'entree (SHA-256)",
+   "ok": true
+  },
+  {
+   "check": "K8.npy : SHA-256 enregistre par v4",
+   "ok": true
+  },
+  {
+   "check": "K8 de L56 : 1517130 formes canoniques (rejeu de v4)",
+   "ok": true
+  },
+  {
+   "check": "f equivariante modulo 2 sur les generateurs : h f = f g",
+   "ok": true
+  },
+  {
+   "check": "toutes de norme 8 dans L",
+   "ok": true
+  },
+  {
+   "check": "temoin positif : can(x~_j + 2 L56) dans K8 (2000 premiers representants de L56)",
+   "ok": true
+  }
+ ],
+ "values": {
+  "paires x_i u_k testees": 1528956,
+  "type (8,8) : classes (x_i u_k) f + 2 L56 contenant un vecteur de norme 8": 0
+ },
+ "seconds": 766.2,
+ "finished": "2026-10-25 21:45:27 +0100",
+ "python": "3.11.17",
+ "numpy": "2.4.6",
+ "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39"
+}

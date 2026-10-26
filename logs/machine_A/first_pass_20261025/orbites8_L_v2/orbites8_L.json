@@ -1,0 +1,55 @@
+{
+ "step": "orbites8_L",
+ "passed": true,
+ "error": null,
+ "checks": [
+  {
+   "check": "12 unites de C_L/{+-1}, isometries commutant a S (deux generateurs)",
+   "ok": true
+  },
+  {
+   "check": "the orbit sizes add up to |L_8|",
+   "ok": true
+  },
+  {
+   "check": "toutes de norme 8",
+   "ok": true
+  },
+  {
+   "check": "exactement 1517130 orbites de S",
+   "ok": true
+  },
+  {
+   "check": "toutes regulieres (24360)",
+   "ok": true
+  },
+  {
+   "check": "somme = |L_8| = 36957286800",
+   "ok": true
+  }
+ ],
+ "values": {
+  "|S*|": 292320,
+  "S*-orbits of minimal vectors (from 656 S-orbits)": 76,
+  "S*-orbits found": 127413,
+  "orbit sizes {size: count}": {
+   "24360": 12,
+   "73080": 80,
+   "97440": 150,
+   "146160": 1629,
+   "292320": 125542
+  },
+  "duree de norm8_orbits (s)": 3176,
+  "paires x_i u_k": 1528956,
+  "formes canoniques distinctes (= orbites de S)": 1517130,
+  "tailles {taille: nombre}": {
+   "24360": 1517130
+  },
+  "SHA-256 de K8_L.npy": "6755d8616a620e0642cc7002b92b30a73851423409a259cea1b1103b6fe6f99a"
+ },
+ "seconds": 3570.1,
+ "finished": "2026-10-25 21:31:57 +0100",
+ "python": "3.11.17",
+ "numpy": "2.4.6",
+ "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39"
+}

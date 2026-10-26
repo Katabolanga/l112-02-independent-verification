@@ -1,0 +1,10 @@
+[    0.5 s] parcours du groupe entier sur L56 ...
+[    6.7 s] [ok]   |<g1, g2>| = 24360 sur L56
+[    6.7 s] [ok]   generateurs isometries de L56
+[    7.6 s] [ok]   image modulo 2 d'ordre 12180 sur L56/2L56
+[    7.6 s] parcours du groupe entier sur L ...
+[   13.2 s] [ok]   |<h1, h2>| = 24360 sur L
+[   13.2 s] [ok]   generateurs isometries de L
+[   14.2 s] [ok]   image modulo 2 d'ordre 12180 sur L/2L
+[   14.2 s] [ok]   f equivariante modulo 2 (generateurs)
+[   21.3 s] [ok]   L56 : 1527984 paires de norme 8

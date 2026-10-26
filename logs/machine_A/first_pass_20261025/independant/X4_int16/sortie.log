@@ -1,0 +1,30 @@
+[    0.5 s] parcours du groupe entier sur L56 ...
+[    8.3 s] [ok]   |<g1, g2>| = 24360 sur L56
+[    8.3 s] [ok]   generateurs isometries de L56
+[    9.8 s] [ok]   image modulo 2 d'ordre 12180 sur L56/2L56
+[    9.8 s] parcours du groupe entier sur L ...
+[   16.3 s] [ok]   |<h1, h2>| = 24360 sur L
+[   16.3 s] [ok]   generateurs isometries de L
+[   17.6 s] [ok]   image modulo 2 d'ordre 12180 sur L/2L
+[   17.6 s] [ok]   f equivariante modulo 2 (generateurs)
+[   25.4 s] [ok]   L56 : 1527984 paires de norme 8
+[ 1054.9 s] [ok]   L56 : 1517130 orbites distinctes
+[ 1054.9 s] [ok]   L56 : toutes regulieres (12180 classes, 24360 vecteurs)
+[ 1054.9 s] [ok]   L56 : somme des tailles = |L_8|
+[ 1062.5 s] [ok]   L : 1528956 paires de norme 8
+[ 2299.2 s] [ok]   L : 1517130 orbites distinctes
+[ 2299.2 s] [ok]   L : toutes regulieres
+[ 2299.2 s] [ok]   L : somme des tailles = |L_8|
+[ 3427.6 s] type (8,8) : paires x de L(8) dont la classe x f contient un vecteur de norme 8 de L56 : 20
+[ 3427.6 s]   orbites de S sur L(8) en collision : 14 ; vecteurs de norme 8 de X : 682080
+[ 3520.0 s] [ok]   phi_L_vers_L56 : 7795200 vecteurs minimaux au signe pres, distincts (hachage), 2 x = |L_6|
+[ 3537.5 s] [ok]   phi_L_vers_L56 : tous de norme 6
+[ 3537.5 s] [ok]   phi_L_vers_L56 : normes des certificats dans {14, 18}
+[ 3537.5 s] [ok]   phi_L_vers_L56 : chaque certificat est dans la classe de son representant
+[ 3555.0 s] [ok]   phi_L_vers_L56 : max |<w0, u>| <= 6 sur tous les vecteurs minimaux
+[ 3642.8 s] [ok]   psi_L56_vers_L : 7795200 vecteurs minimaux au signe pres, distincts (hachage), 2 x = |L_6|
+[ 3660.2 s] [ok]   psi_L56_vers_L : tous de norme 6
+[ 3660.2 s] [ok]   psi_L56_vers_L : normes des certificats dans {14, 18}
+[ 3660.2 s] [ok]   psi_L56_vers_L : chaque certificat est dans la classe de son representant
+[ 3677.5 s] [ok]   psi_L56_vers_L : max |<w0, u>| <= 6 sur tous les vecteurs minimaux
+[ 3677.5 s] BILAN : OK

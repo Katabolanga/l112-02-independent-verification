@@ -1,0 +1,17 @@
+2026-10-26 19:02:18 debut lot X1 REP V2 dans <MACHINE_B>/relais_20261009/results/X1_REP_V2_20261026_1758/work/EXEC_MACHINE_B_X1REP_V2_<TOKEN> ; MemAvailable = 11232372 kio ; ulimit -v 6291456 kio ; horloge monotone T0 3962 ; etapes jusqu'a FIN = T0 + 16380 s ; verdict jusqu'a ECHEANCE = T0 + 16980 s ; collecte reservee 900 s + marge systemd 120 s ; arret force 5 s ; factice 0 ; injection «  »
+2026-10-26 19:02:18 versions : gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0 ; gp 2.17.3 ; PY Python 3.12.3 ; PYN <MACHINE_B>/software/envs/sage/bin/python3 ; Linux 7.0.0-38-generic
+2026-10-26 19:02:18 chemins : PY=/usr/bin/python3 PYN=<MACHINE_B>/software/envs/sage/bin/python3 GP=<MACHINE_B>/software/envs/sage/bin/gp CC=/usr/bin/gcc
+2026-10-26 19:02:18 E00_numpy : REUSSITE (code natif 0, motif « NUMPY DISPONIBLE » present) ; 0 s (delai 115 s + arret force 5 s <= 120 s)
+2026-10-26 19:02:18 B01_compil_enum : REUSSITE (code natif 0, motif « COMPILATION OK » present) ; 0 s (delai 295 s + arret force 5 s <= 300 s)
+2026-10-26 19:02:18 B02_compil_formes : REUSSITE (code natif 0, motif « COMPILATION OK » present) ; 0 s (delai 295 s + arret force 5 s <= 300 s)
+2026-10-26 19:02:20 B03_controles_enum : REUSSITE (code natif 0, motif « CONTROLES ENUM OK » present) ; 2 s (delai 295 s + arret force 5 s <= 300 s)
+2026-10-26 19:02:20 R01_raccords : REUSSITE (code natif 0, motif « BILAN : OK » present) ; 0 s (delai 895 s + arret force 5 s <= 900 s)
+2026-10-26 19:02:20 R02_parite : REUSSITE (code natif 0, motif « PARITE : 56 + 1540 congruences vraies sur 1596 » present) ; 0 s (delai 595 s + arret force 5 s <= 600 s)
+2026-10-26 19:02:20 R03_theta56 : REUSSITE (code natif 0, motif « [ok]    norme 8 : 36 957 286 800 (somme des orbites de F3) » present) ; 0 s (delai 295 s + arret force 5 s <= 300 s)
+2026-10-26 19:15:50 F01_F1_L : REUSSITE (code natif 0, motif « leaves 1 » present) ; 810 s (delai 3595 s + arret force 5 s <= 3600 s)
+2026-10-26 19:27:17 F02_F1_L56 : REUSSITE (code natif 0, motif « leaves 1 » present) ; 687 s (delai 4195 s + arret force 5 s <= 4200 s)
+2026-10-26 19:29:34 V01_phi_X1 : REUSSITE (code natif 0, motif « BILAN : OK » present) ; 137 s (delai 1195 s + arret force 5 s <= 1200 s)
+2026-10-26 20:08:08 V02_indep_X1 : REUSSITE (code natif 0, motif « VERDICT X1 (regle propre a X1) : nb_touches88 = 0 ; deux cotes impairs : True ; controles : OK -> CONFORME » present) ; 2314 s (delai 7195 s + arret force 5 s <= 7200 s)
+2026-10-26 20:47:30 V03_indep_X4 : REUSSITE (code natif 0, motif « -> CONFORME (touches trouvees) » present) ; 2361 s (delai 7195 s + arret force 5 s <= 7200 s)
+2026-10-26 20:47:30 VERDICT : code natif 0 ; VERDICT GLOBAL : REPLICATION X1 CONFORME (23 conditions sur 23 PASS)
+2026-10-26 20:47:30 CODE GLOBAL 0 (0 = replication X1 conforme selon le verdict ; sinon aucune conclusion)

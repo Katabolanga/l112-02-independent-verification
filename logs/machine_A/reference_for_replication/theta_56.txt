@@ -1,0 +1,11 @@
+[ok]    norme 6 : 15 590 400 (= 2 x 7 795 200, orbites de F2)
+[ok]    norme 8 : 36 957 286 800 (somme des orbites de F3)
+[ok]    expression de roiban (annexe B, table B1) : (-159 A^7 + 238 A^4 B + 161 A B^2)/240
+  norme 0 : 1
+  norme 2 : 0
+  norme 4 : 0
+  norme 6 : 15590400
+  norme 8 : 36957286800
+  norme 10 : 15284192071680
+  norme 12 : 2099603881267200
+code=0

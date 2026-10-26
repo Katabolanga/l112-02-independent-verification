@@ -1,0 +1,11 @@
+debut 2026-10-25 19:08:11
+'EEUL.X1.no_inner_shell_ne8' depends on axioms: [propext, Classical.choice, Quot.sound]
+'EEUL.X1.cert_bound' depends on axioms: [propext, Quot.sound]
+'EEUL.X1.odd_bound' depends on axioms: [propext, Quot.sound]
+'EEUL.X1.pred_transport' depends on axioms: [propext, Quot.sound]
+'EEUL.X1.pred_transport'' depends on axioms: [propext, Quot.sound]
+'EEUL.X1.odd_cosets_bound' depends on axioms: [propext, Quot.sound]
+'EEUL.X1.odd_cosets_bound'' depends on axioms: [propext, Quot.sound]
+'EEUL.X1.theoremX1' depends on axioms: [propext, Classical.choice, Quot.sound]
+code 0
+fin 2026-10-25 19:08:28

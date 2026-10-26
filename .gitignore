@@ -1,0 +1,5 @@
+# public files of roiban1344, downloaded by data/roiban/fetch_roiban_data.sh (not redistributed here)
+data/frozen/roiban_112/
+data/frozen/roiban_sl2_29/
+*.part
+*.mismatch

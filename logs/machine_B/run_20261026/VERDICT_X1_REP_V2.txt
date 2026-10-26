@@ -1,0 +1,27 @@
+VERDICT X1 REPLICATION (verdict_x1_rep_v2.py, regle propre a X1) -- 2026-10-26 20:47:30 -- <MACHINE_B>/relais_20261009/results/X1_REP_V2_20261026_1758/work/EXEC_MACHINE_B_X1REP_V2_<TOKEN>
+
+[PASS] natifs         les 12 etapes ont un code natif 0 et un marqueur .ok  -- en defaut : []
+[PASS] numpy          E00 : numpy present dans PYN  -- python 3.12.15 numpy 2.5.3 <MACHINE_B>/software/envs/sage/bin/python3
+[PASS] compil-enum    B01 : enum_interval.c recompile nativement (gcc -O2 -std=c11 -fno-fast-math -ffp-contract=off)  -- sha256 du binaire enum_interval = fdbb8617941dd37c83251710a4c851c2224831f5a3d0412dbf24db7a1497c381
+[PASS] compil-formes  B02 : formes_canoniques.c recompile nativement (gcc -O2)  -- sha256 du binaire formes_canoniques = fb41c4e86f85358ce1d5088343b6f7ef67cac0429c56d28deaf6b2d41f4eb040
+[PASS] controle-enum  B03 : binaire recompile, sorties E8, Leech, Leech2_E8 identiques a l'octet a celles de MACHINE_A  -- differences : []
+[PASS] raccords       R01 : raccords des entrees F1 (L et L56 : Gram = U G U^t, |det U| = 1, 1 596 intervalles exacts, D > 0)  -- L True ; L56 True
+[PASS] parite         R02 : parite du recollement, D = G_L - f G f^t : 56 diagonales = 0 mod 4, 1 540 hors diagonale = 0 mod 2
+[PASS] theta56        R03 : serie theta extremale 56 (PARI exact) : |L_6| = 15 590 400, |L_8| = 36 957 286 800, expression de roiban, identique a MACHINE_A  -- manque : [] ; comparaison a MACHINE_A : 10 lignes identiques
+[PASS] F1-L           F01 : F1 cote L (min L = 6) : nodes 9905828434 leaves 1, 0 non tabule, done, identique a MACHINE_A, code natif 0  -- une feuille / 0 non tabule / done : True ; identique a MACHINE_A : True
+[PASS] F1-L56         F02 : F1 cote L56 (min L56 = 6) : nodes 8454837756 leaves 1, 0 non tabule, done, identique a MACHINE_A, code natif 0  -- une feuille / 0 non tabule / done : True ; identique a MACHINE_A : True
+[PASS] phi-int64      V01 : cote phi (types (6,6), (6,10)), exact int64 : 7 controles sur 7 dont la classe, BILAN OK, code natif 0  -- manque : []
+[PASS] groupes-X1     V02 : groupes <g1, g2> sur L56 et <h1, h2> sur L d'ordre 24360, isometries, images mod 2 d'ordre 12180, f equivariante  -- manque : []
+[PASS] cover8-L56     V02 : couverture norme 8 de L56 : 1 527 984 paires, 1 517 130 orbites regulieres, somme = |L_8|  -- manque : []
+[PASS] cover8-L       V02 : couverture norme 8 de L (cover8) : 1 528 956 paires, 1 517 130 orbites regulieres, somme = |L_8|  -- manque : []
+[PASS] phi-X1         V02 : cote phi (types (6,6), (6,10)) : couverture norme 6 de L (7 795 200 = |L_6|/2) et 656 certificats : 5 controles  -- manque : []
+[PASS] psi-X1         V02 : cote psi (type (10,6)) : couverture norme 6 de L56 et 656 certificats : 5 controles  -- manque : []
+[PASS] deux-cotes     V02 : les DEUX cotes impairs ont ete traites  -- manque : []
+[PASS] nocoll88-X1    V02 : type (8,8) : 0 touche sur les 1 528 956 paires (ligne lue, pas deduite de BILAN OK)  -- valeurs lues : ['0']
+[PASS] regle-X1       V02 : regle propre a X1 (BILAN OK et « nb_touches88 = 0 ; deux cotes impairs : True -> CONFORME »), code natif 0  -- manque : []
+[PASS] positif-X4     V03 : controle positif X4 : 20 paires (8,8) en collision, 14 orbites, 682 080 vecteurs de norme 8, regle J = 4, code natif 0  -- touches lues : ['20'] ; manque : []
+[PASS] ident-V01      V01 : journal identique a celui de MACHINE_A (v3, 26 oct. 9 h 56), horodatages retires  -- 12 lignes identiques
+[PASS] ident-V02      V02 : journal identique a celui de MACHINE_A (v3, 26 oct. 10 h 54), horodatages retires  -- 31 lignes identiques
+[PASS] ident-V03      V03 : journal identique a celui de MACHINE_A (v3, 26 oct. 11 h 46), horodatages retires  -- 32 lignes identiques
+
+VERDICT GLOBAL : REPLICATION X1 CONFORME (23 conditions sur 23 PASS)

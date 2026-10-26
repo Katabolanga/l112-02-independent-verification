@@ -1,0 +1,12 @@
+[ok]   generateurs isometries de L56
+[ok]   |<g1, g2>| = 24360
+max |entree| du groupe : 248
+max |coordonnee| des vecteurs minimaux de L56 (base du depot) : 135 ; int8 suffisait : False
+[ok]   7795200 vecteurs minimaux au signe pres, distincts (hachage), 2 x = |L_6| = 15590400
+[ok]   tous de norme 6 (int64 exact)
+[ok]   normes des certificats dans {14, 18}
+[ok]   chaque certificat est dans la classe de son representant
+[ok]   max |<w0, u>| <= 6 sur tous les vecteurs minimaux (int64 exact)
+max |<w0,u>| observe : 6
+BILAN : OK
+code 0

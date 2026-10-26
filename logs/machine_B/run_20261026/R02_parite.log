@@ -1,0 +1,5 @@
+tailles 56 x 56 (G_L, f, G) : True
+G (L56) symetrique : True ; paire : True ; G_L symetrique : True ; paire : True
+PARITE : 56 + 1540 congruences vraies sur 1596 (56 diagonales = 0 mod 4, 1540 hors diagonale = 0 mod 2)
+structure sha 33ec8ffda0cb3ec5 ; G sha 4d13bd51fcf3cb8c
+BILAN : OK

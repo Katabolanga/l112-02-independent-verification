@@ -1,0 +1,13 @@
+B01_compil_enum code natif 0
+B02_compil_formes code natif 0
+B03_E8 code natif 0
+B03_E8 identique a la reference
+B03_leech code natif 0
+B03_leech identique a la reference
+B03_leech2_e8 code natif 0
+B03_leech2_e8 identique a la reference
+R01_raccords code natif 0
+R02_parite code natif 0
+V01_phi_X1 code natif 0
+V02_partiel_420s code natif 124
+FINI

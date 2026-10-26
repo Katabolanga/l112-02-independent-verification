@@ -1,0 +1,10 @@
+== cote L56
+[ok]    entree : dimension 56, rayon 4 (vecteurs de norme <= 4)
+[ok]    passage U : 56 x 56, det = -1 (unimodulaire)
+[ok]    Gram de l'entree = U G U^t (egalite exacte des 3136 coefficients)
+[ok]    pivots D_i > 0 (Gram definie positive)
+[ok]    les 56 intervalles de D contiennent les D_i exacts
+[ok]    les 1540 intervalles de V contiennent les V_ij exacts
+[ok]    controle : V^t diag(D) V = Gram de l'entree
+RACCORD : OK
+code 0

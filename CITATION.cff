@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this verification, please cite it as below, and cite roiban1344's work, to which the lattice L112.02 is due."
+title: "Independent verification of min(L112.02) = 10"
+type: software
+version: "1.0"
+date-released: "2026-10-26"
+repository-code: "https://github.com/Katabolanga/l112-02-independent-verification"
+authors:
+  - family-names: Gauvin
+    given-names: Ivan
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - extremal lattice
+  - even unimodular lattice
+  - dimension 112
+  - computer-assisted proof
+references:
+  - type: software
+    title: "An extremal even unimodular lattice in dimension 112"
+    authors:
+      - name: roiban1344
+    repository-code: "https://github.com/roiban1344/112-dimensional-extremal-even-unimodular-lattice"
+    commit: "3db9dac5ac13de4c90109bbdc4176b7b7a0a4ca1"
+  - type: dataset
+    title: "Rank-112 lattices with an action of SL2(29)"
+    authors:
+      - name: roiban1344
+    repository-code: "https://github.com/roiban1344/sl-2-29-rank-112-extremal-lattice"
+    commit: "d868927ada7bfbbcc0d6fad88cb8a25c75de9155"
+  - type: article
+    title: "Some cyclo-quaternionic lattices"
+    authors:
+      - family-names: Nebe
+        given-names: Gabriele
+    journal: "Journal of Algebra"
+    volume: 199
+    year: 1998
+    start: 472
+    end: 498

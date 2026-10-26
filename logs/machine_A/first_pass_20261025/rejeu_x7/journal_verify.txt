@@ -1,0 +1,13 @@
+debut v0_inputs 2026-10-25 18:49:33
+fin v0_inputs 2026-10-25 18:49:53 code 0
+debut v2_theta 2026-10-25 18:49:53
+fin v2_theta 2026-10-25 18:49:53 code 0
+debut v3_minimal_orbits 2026-10-25 18:49:53
+fin v3_minimal_orbits 2026-10-25 18:51:08 code 0
+debut v4_norm8_orbits 2026-10-25 18:51:08
+fin v4_norm8_orbits 2026-10-25 19:01:34 code 0
+debut v5_odd_bounding 2026-10-25 19:01:34
+fin v5_odd_bounding 2026-10-25 19:03:48 code 0
+debut v6_canonical_lookup 2026-10-25 19:03:48
+fin v6_canonical_lookup 2026-10-25 19:25:28 code 0
+REJEU v0 v2-v6 TERMINE

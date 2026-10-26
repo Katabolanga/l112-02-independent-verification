@@ -1,0 +1,16 @@
+[     2.0 s] [ok]   S_L : 12180 elements
+[     2.1 s] germes (vecteurs minimaux) = 51
+[   571.3 s] orbits found = 656
+[   571.3 s] vectors covered = 15590400
+[   571.3 s] [ok]   the orbit sizes add up to |L_6|
+[   627.5 s] [ok]   no hash collision among the known vectors
+[   627.6 s] representants = 656
+[   697.3 s] vecteurs r s au signe pres = 7795200
+[   697.3 s] [ok]   2 x |V| = 15590400 = |L_6| (theta extremale)
+[   720.1 s] [ok]   tous distincts (hachages 64 bits distincts)
+[   739.5 s] [ok]   tous de norme 6
+[   742.9 s] [ok]   formes canoniques distinctes
+[   742.9 s] tailles d'orbites {taille: nombre} = {8120: 24, 24360: 632}
+[   742.9 s] [ok]   somme des tailles = 15590400
+[   742.9 s] ecrit min_reps_L.npz
+[   743.2 s] PASSED: orbites_min_L -> <LOT>/R112_X1_EFFORT_MAX_20261025/sorties/orbites_min_L/orbites_min_L.json

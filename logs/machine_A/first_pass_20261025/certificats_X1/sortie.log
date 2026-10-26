@@ -1,0 +1,43 @@
+[    29.2 s] [ok]   G_X = Gram de la base [Y1; Y2]/2 coherente : Y1 G_X Y1^T = 2 G_L et Y2 G_X Y2^T = 2 G
+[    29.2 s] [ok]   f f^-1 = I (mod 2)
+[    62.8 s] phi_L_vers_L56 : temoin positif, descentes revenues a la norme 10 = 40 sur 40
+[    62.8 s] [ok]   phi_L_vers_L56 : temoin positif, aucun faux certificat
+[    63.2 s] phi_L_vers_L56 : 0 / 656 descentes (derniere : 2 pas, norme finale 18)
+[    88.8 s] phi_L_vers_L56 : 50 / 656 descentes (derniere : 3 pas, norme finale 14)
+[   111.6 s] phi_L_vers_L56 : 100 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   133.9 s] phi_L_vers_L56 : 150 / 656 descentes (derniere : 2 pas, norme finale 14)
+[   157.3 s] phi_L_vers_L56 : 200 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   179.4 s] phi_L_vers_L56 : 250 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   201.5 s] phi_L_vers_L56 : 300 / 656 descentes (derniere : 2 pas, norme finale 14)
+[   223.2 s] phi_L_vers_L56 : 350 / 656 descentes (derniere : 3 pas, norme finale 14)
+[   244.2 s] phi_L_vers_L56 : 400 / 656 descentes (derniere : 2 pas, norme finale 18)
+[   266.3 s] phi_L_vers_L56 : 450 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   288.5 s] phi_L_vers_L56 : 500 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   310.1 s] phi_L_vers_L56 : 550 / 656 descentes (derniere : 2 pas, norme finale 18)
+[   331.5 s] phi_L_vers_L56 : 600 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   353.6 s] phi_L_vers_L56 : 650 / 656 descentes (derniere : 0 pas, norme finale 18)
+[   355.8 s] phi_L_vers_L56 : (norme, max |<w,u>|) -> nombre = {'norme 14, max 5': 53, 'norme 14, max 6': 225, 'norme 18, max 6': 378}
+[   355.8 s] phi_L_vers_L56 : descentes terminees sous la norme 14 (collisions) = 0
+[   502.1 s] phi_L_vers_L56 : certificats valides (norme 14 ou 18, max <= 6) = 656
+[   502.6 s] [ok]   type (6,6)/(6,10) : un certificat impair pour chacun des 656 representants de L_6
+[   537.7 s] psi_L56_vers_L : temoin positif, descentes revenues a la norme 10 = 40 sur 40
+[   537.7 s] [ok]   psi_L56_vers_L : temoin positif, aucun faux certificat
+[   538.3 s] psi_L56_vers_L : 0 / 656 descentes (derniere : 2 pas, norme finale 14)
+[   561.9 s] psi_L56_vers_L : 50 / 656 descentes (derniere : 2 pas, norme finale 18)
+[   584.9 s] psi_L56_vers_L : 100 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   607.0 s] psi_L56_vers_L : 150 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   629.8 s] psi_L56_vers_L : 200 / 656 descentes (derniere : 2 pas, norme finale 14)
+[   653.5 s] psi_L56_vers_L : 250 / 656 descentes (derniere : 2 pas, norme finale 14)
+[   675.5 s] psi_L56_vers_L : 300 / 656 descentes (derniere : 3 pas, norme finale 14)
+[   696.3 s] psi_L56_vers_L : 350 / 656 descentes (derniere : 2 pas, norme finale 18)
+[   718.6 s] psi_L56_vers_L : 400 / 656 descentes (derniere : 3 pas, norme finale 14)
+[   742.4 s] psi_L56_vers_L : 450 / 656 descentes (derniere : 2 pas, norme finale 14)
+[   764.3 s] psi_L56_vers_L : 500 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   789.1 s] psi_L56_vers_L : 550 / 656 descentes (derniere : 1 pas, norme finale 14)
+[   812.3 s] psi_L56_vers_L : 600 / 656 descentes (derniere : 2 pas, norme finale 14)
+[   834.1 s] psi_L56_vers_L : 650 / 656 descentes (derniere : 1 pas, norme finale 18)
+[   835.9 s] psi_L56_vers_L : (norme, max |<w,u>|) -> nombre = {'norme 14, max 5': 53, 'norme 14, max 6': 218, 'norme 18, max 6': 385}
+[   835.9 s] psi_L56_vers_L : descentes terminees sous la norme 14 (collisions) = 0
+[   978.7 s] psi_L56_vers_L : certificats valides (norme 14 ou 18, max <= 6) = 656
+[   978.8 s] [ok]   type (10,6) : un certificat impair pour chacun des 656 representants de L56_6
+[   979.3 s] PASSED: certificats_impairs_x1 -> <LOT>/R112_X1_EFFORT_MAX_20261025/sorties/certificats_X1/certificats_impairs_x1.json

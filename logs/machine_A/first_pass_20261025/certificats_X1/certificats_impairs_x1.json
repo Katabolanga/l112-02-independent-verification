@@ -1,0 +1,54 @@
+{
+ "step": "certificats_impairs_x1",
+ "passed": true,
+ "error": null,
+ "checks": [
+  {
+   "check": "G_X = Gram de la base [Y1; Y2]/2 coherente : Y1 G_X Y1^T = 2 G_L et Y2 G_X Y2^T = 2 G",
+   "ok": true
+  },
+  {
+   "check": "f f^-1 = I (mod 2)",
+   "ok": true
+  },
+  {
+   "check": "phi_L_vers_L56 : temoin positif, aucun faux certificat",
+   "ok": true
+  },
+  {
+   "check": "type (6,6)/(6,10) : un certificat impair pour chacun des 656 representants de L_6",
+   "ok": true
+  },
+  {
+   "check": "psi_L56_vers_L : temoin positif, aucun faux certificat",
+   "ok": true
+  },
+  {
+   "check": "type (10,6) : un certificat impair pour chacun des 656 representants de L56_6",
+   "ok": true
+  }
+ ],
+ "values": {
+  "phi_L_vers_L56 : temoin positif, descentes revenues a la norme 10": "40 sur 40",
+  "phi_L_vers_L56 : (norme, max |<w,u>|) -> nombre": {
+   "norme 14, max 5": 53,
+   "norme 14, max 6": 225,
+   "norme 18, max 6": 378
+  },
+  "phi_L_vers_L56 : descentes terminees sous la norme 14 (collisions)": 0,
+  "phi_L_vers_L56 : certificats valides (norme 14 ou 18, max <= 6)": 656,
+  "psi_L56_vers_L : temoin positif, descentes revenues a la norme 10": "40 sur 40",
+  "psi_L56_vers_L : (norme, max |<w,u>|) -> nombre": {
+   "norme 14, max 5": 53,
+   "norme 14, max 6": 218,
+   "norme 18, max 6": 385
+  },
+  "psi_L56_vers_L : descentes terminees sous la norme 14 (collisions)": 0,
+  "psi_L56_vers_L : certificats valides (norme 14 ou 18, max <= 6)": 656
+ },
+ "seconds": 978.8,
+ "finished": "2026-10-25 19:53:36 +0100",
+ "python": "3.11.17",
+ "numpy": "2.4.6",
+ "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39"
+}

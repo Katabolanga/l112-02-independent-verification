@@ -1,0 +1,23 @@
+[     0.3 s] [ok]   unites : isometries de L
+[    15.1 s] [ok]   rejeu de v4 : passed
+[    15.4 s] [ok]   rejeu de v4 : memes fichiers d'entree (SHA-256)
+[    15.6 s] [ok]   K8.npy : SHA-256 enregistre par v4
+[    15.7 s] [ok]   K8 de L56 : 1517130 formes canoniques (rejeu de v4)
+[    17.0 s] [ok]   f equivariante modulo 2 sur les generateurs : h f = f g
+[    23.7 s] paires x_i u_k testees = 1528956
+[    26.2 s] [ok]   toutes de norme 8 dans L
+[    29.1 s] [ok]   temoin positif : can(x~_j + 2 L56) dans K8 (2000 premiers representants de L56)
+[    37.1 s] 16384 / 1528956 paires ; touches 0 ; 8 s
+[   117.8 s] 180224 / 1528956 paires ; touches 0 ; 89 s
+[   192.6 s] 344064 / 1528956 paires ; touches 0 ; 164 s
+[   267.8 s] 507904 / 1528956 paires ; touches 0 ; 239 s
+[   343.3 s] 671744 / 1528956 paires ; touches 0 ; 314 s
+[   421.5 s] 835584 / 1528956 paires ; touches 0 ; 392 s
+[   506.4 s] 999424 / 1528956 paires ; touches 0 ; 477 s
+[   588.1 s] 1163264 / 1528956 paires ; touches 0 ; 559 s
+[   668.1 s] 1327104 / 1528956 paires ; touches 0 ; 639 s
+[   747.0 s] 1490944 / 1528956 paires ; touches 0 ; 718 s
+[   766.2 s] type (8,8) : classes (x_i u_k) f + 2 L56 contenant un vecteur de norme 8 = 0
+[   766.3 s] PASSED: collisions8_X1 -> <LOT>/R112_X1_EFFORT_MAX_20261025/sorties/collisions8_X1/collisions8_X1.json
+code 0
+SUITE_TERMINEE

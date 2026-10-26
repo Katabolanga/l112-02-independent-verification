@@ -1,0 +1,55 @@
+{
+ "step": "orbites_min_L",
+ "passed": true,
+ "error": null,
+ "checks": [
+  {
+   "check": "S_L : 12180 elements",
+   "ok": true
+  },
+  {
+   "check": "the orbit sizes add up to |L_6|",
+   "ok": true
+  },
+  {
+   "check": "no hash collision among the known vectors",
+   "ok": true
+  },
+  {
+   "check": "2 x |V| = 15590400 = |L_6| (theta extremale)",
+   "ok": true
+  },
+  {
+   "check": "tous distincts (hachages 64 bits distincts)",
+   "ok": true
+  },
+  {
+   "check": "tous de norme 6",
+   "ok": true
+  },
+  {
+   "check": "formes canoniques distinctes",
+   "ok": true
+  },
+  {
+   "check": "somme des tailles = 15590400",
+   "ok": true
+  }
+ ],
+ "values": {
+  "germes (vecteurs minimaux)": 51,
+  "orbits found": 656,
+  "vectors covered": 15590400,
+  "representants": 656,
+  "vecteurs r s au signe pres": 7795200,
+  "tailles d'orbites {taille: nombre}": {
+   "8120": 24,
+   "24360": 632
+  }
+ },
+ "seconds": 742.9,
+ "finished": "2026-10-25 19:26:24 +0100",
+ "python": "3.11.17",
+ "numpy": "2.4.6",
+ "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39"
+}

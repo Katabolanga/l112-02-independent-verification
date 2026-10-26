@@ -1,0 +1,4 @@
+L   : L_bkz40_rayon4.entree (sha 9c3ff4530faa75a9) n=56 rayon=4 ; entree == Gr : True ; entree == U G_L U^T : True ; det U = -1 ; 1596 intervalles contiennent les valeurs exactes : True [] ; D > 0 : True
+L56 : L56.entree (sha 7a484d9506a3b587) n=56 rayon=4 ; entree == U G U^T : True ; det U = -1 ; 1596 intervalles contiennent les valeurs exactes : True [] ; D > 0 : True ; G sha 4d13bd51fcf3cb8c ; U sha 5ed0cc64aa6c13fc
+BILAN : OK
+code natif 0

@@ -1,0 +1,49 @@
+start 2026-10-26T20:23:13Z
+[ok] sections in the order of the catalogue entries
+[ok] DIMENSION 112
+[ok] DET 1
+[ok] GRAM header '112 0'
+[ok] GRAM: 112 rows of the lower triangle
+[ok] GRAM: even diagonal
+[ok] GRAM: det = 1 (Bareiss, exact)
+[ok] GRAM: positive definite (exact LDL^T, 112 positive pivots), rank 112
+     diagonal of GRAM: min 10, max 38
+[ok] MINIMAL_NORM 10, HERMITE_NUMBER 10, DIVISORS 1
+[ok] extremal theta series of weight 56 (exact): 1 + 0 q + ... + 0 q^4
+[ok] KISSING_NUMBER = coefficient of q^5 = 10888335360
+[ok] generator header '112<TAB>112'
+[ok] generator: 112 x 112 integer matrix
+[ok] generator header '112<TAB>112'
+[ok] generator: 112 x 112 integer matrix
+[ok] generator header '112<TAB>112'
+[ok] generator: 112 x 112 integer matrix
+[ok] generator header '112<TAB>112'
+[ok] generator: 112 x 112 integer matrix
+[ok] generator header '112<TAB>112'
+[ok] generator: 112 x 112 integer matrix
+[ok] no trailing data in SUBGROUP_GENERATORS
+[ok] generator 1: g * GRAM * g^T = GRAM
+[ok] generator 2: g * GRAM * g^T = GRAM
+[ok] generator 3: g * GRAM * g^T = GRAM
+[ok] generator 4: g * GRAM * g^T = GRAM
+[ok] generator 5: g * GRAM * g^T = GRAM
+[ok] order of s29 = 29
+[ok] order of s4 = 4
+[ok] order of c2 = 2
+[ok] order of c6 = 6
+     order of T: 60
+[ok] s4^2 = -1
+[ok] c2 commutes with s29
+[ok] c2 commutes with s4
+[ok] c6 commutes with s29
+[ok] c6 commutes with s4
+[ok] c2 commutes with c6
+[ok] relation T^-1*s29*T = word of length 13 in s29, s4
+[ok] relation T^-1*s4*T = word of length 13 in s29, s4
+[ok] passage matrix: 112 x 112, det = +-1 (Bareiss)
+[ok] GRAM = P * G_roiban * P^T
+     orbit of a random vector under the generators: 292320 vectors
+[ok] orbit length 292320 (so the group has order >= 292320)
+ALL CHECKS PASSED
+exit code 0
+end 2026-10-26T20:24:10Z

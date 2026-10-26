@@ -1,0 +1,42 @@
+[     2.9 s] [ok]   12 unites de C_L/{+-1}, isometries commutant a S (deux generateurs)
+[    13.8 s] |S*| = 292320
+[    13.8 s] S*-orbits of minimal vectors (from 656 S-orbits) = 76
+[    66.1 s] tables ready: W has 925680 rows
+[   691.9 s] i = 0: 28713 / 337527 candidates, 22841 orbits, 17.98 % of L_8
+[  1291.9 s] i = 0: 81861 / 337527 candidates, 49746 orbits, 39.15 % of L_8
+[  1891.9 s] i = 0: 170600 / 337527 candidates, 75977 orbits, 59.81 % of L_8
+[  2204.3 s] i = 0: |X_i| = 337527, new orbits 90633, total 90633, 71.306 % of L_8
+[  2819.1 s] i = 1: 223094 / 337527 candidates, 120287 orbits, 94.56 % of L_8
+[  2891.3 s] i = 1: |X_i| = 337527, new orbits 33311, total 123944, 97.392 % of L_8
+[  2931.0 s] i = 2: |X_i| = 337527, new orbits 1215, total 125159, 98.305 % of L_8
+[  2985.4 s] i = 3: |X_i| = 337527, new orbits 2009, total 127168, 99.838 % of L_8
+[  3005.9 s] i = 4: |X_i| = 337527, new orbits 189, total 127357, 99.973 % of L_8
+[  3021.4 s] i = 5: |X_i| = 337527, new orbits 32, total 127389, 99.990 % of L_8
+[  3036.1 s] i = 6: |X_i| = 337527, new orbits 10, total 127399, 99.996 % of L_8
+[  3051.3 s] i = 7: |X_i| = 337527, new orbits 5, total 127404, 99.998 % of L_8
+[  3066.8 s] i = 8: |X_i| = 337527, new orbits 6, total 127410, 100.000 % of L_8
+[  3083.4 s] i = 9: |X_i| = 337527, new orbits 0, total 127410, 100.000 % of L_8
+[  3099.3 s] i = 10: |X_i| = 337527, new orbits 2, total 127412, 100.000 % of L_8
+[  3114.6 s] i = 11: |X_i| = 337527, new orbits 0, total 127412, 100.000 % of L_8
+[  3130.9 s] i = 12: |X_i| = 337527, new orbits 1, total 127413, 100.000 % of L_8
+[  3179.0 s] S*-orbits found = 127413
+[  3179.0 s] orbit sizes {size: count} = {24360: 12, 73080: 80, 97440: 150, 146160: 1629, 292320: 125542}
+[  3179.0 s] [ok]   the orbit sizes add up to |L_8|
+[  3179.4 s] duree de norm8_orbits (s) = 3176
+[  3181.7 s] ecrit norm8_reps_L.npz
+[  3189.6 s] paires x_i u_k = 1528956
+[  3192.1 s] [ok]   toutes de norme 8
+[  3201.9 s] formes canoniques : 32768 / 1528956
+[  3266.0 s] formes canoniques : 294912 / 1528956
+[  3330.3 s] formes canoniques : 557056 / 1528956
+[  3393.6 s] formes canoniques : 819200 / 1528956
+[  3457.1 s] formes canoniques : 1081344 / 1528956
+[  3521.8 s] formes canoniques : 1343488 / 1528956
+[  3569.8 s] formes canoniques distinctes (= orbites de S) = 1517130
+[  3569.8 s] [ok]   exactement 1517130 orbites de S
+[  3569.8 s] tailles {taille: nombre} = {24360: 1517130}
+[  3569.8 s] [ok]   toutes regulieres (24360)
+[  3569.8 s] [ok]   somme = |L_8| = 36957286800
+[  3570.1 s] SHA-256 de K8_L.npy = 6755d8616a620e0642cc7002b92b30a73851423409a259cea1b1103b6fe6f99a
+[  3570.2 s] PASSED: orbites8_L -> <LOT>/R112_X1_EFFORT_MAX_20261025/sorties/orbites8_L_v2/orbites8_L.json
+code 0

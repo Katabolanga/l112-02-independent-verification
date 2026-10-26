@@ -1,0 +1,11 @@
+# Public files of roiban1344 used by the verification. They are NOT redistributed here: fetch_roiban_data.sh downloads them
+# into data/frozen/ (paths below, relative to data/frozen/) and checks their SHA-256. Licence of these files: CC BY 4.0 (data), roiban1344.
+# local_path	sha256	bytes	source
+roiban_112/data/L56_gram.txt	4d13bd51fcf3cb8c5706bde45828713d7eeb4d18a37e8e9d84fb2700f4bef2f0	9326	git:112-dimensional-extremal-even-unimodular-lattice@3db9dac5ac13de4c90109bbdc4176b7b7a0a4ca1:data/L56_gram.txt
+roiban_112/data/sl2_29_generators.txt	97f88443de1fd1fdeb010ecb668dbbb03a8e0e989a18c0ad85a751687012ad90	18400	git:112-dimensional-extremal-even-unimodular-lattice@3db9dac5ac13de4c90109bbdc4176b7b7a0a4ca1:data/sl2_29_generators.txt
+roiban_112/certificates/reduction_L.txt	5ed0cc64aa6c13fcb2402c565b367b7bf43c9e085765b91881d1fb07a6d2dd59	9186	git:112-dimensional-extremal-even-unimodular-lattice@3db9dac5ac13de4c90109bbdc4176b7b7a0a4ca1:certificates/reduction_L.txt
+roiban_112/certificates/genus_class_1.txt	5cd1e260ef349ed700bc900b0fddc6990c179e4d0839a06e82c10355c3926c22	40649	git:112-dimensional-extremal-even-unimodular-lattice@3db9dac5ac13de4c90109bbdc4176b7b7a0a4ca1:certificates/genus_class_1.txt
+roiban_112/certificates/centralizer.npz	e8bbdfaae0293cd0d4609d19ec284c527ab6a5705fedc4661339c4c21bf780ef	17057	release:112-dimensional-extremal-even-unimodular-lattice@certificates-v2:centralizer.npz
+roiban_112/certificates/min_reps.npz	a74975e31bbe96952c48cf3eb9239f8acbe86635a358f834cd2141f0963aca74	35935	release:112-dimensional-extremal-even-unimodular-lattice@certificates-v2:min_reps.npz
+roiban_112/certificates/norm8_reps.npz	c451b3b6b0935d69e0fe62cc3250bfd0c7642ceba8403d56e933aa22584a9f3a	13956968	release:112-dimensional-extremal-even-unimodular-lattice@certificates-v2:norm8_reps.npz
+roiban_sl2_29/lattices/L112.02/gram.txt	7751107bf646e1bb55c5a7ad41a1c21e6f38a842d857e96107db62d93785d4ea	40308	git:sl-2-29-rank-112-extremal-lattice@d868927ada7bfbbcc0d6fad88cb8a25c75de9155:lattices/L112.02/gram.txt

@@ -1,0 +1,31 @@
+[    0.9 s] parcours du groupe entier sur L56 ...
+[    7.2 s] [ok]   |<g1, g2>| = 24360 sur L56
+[    7.2 s] [ok]   generateurs isometries de L56
+[    8.5 s] [ok]   image modulo 2 d'ordre 12180 sur L56/2L56
+[    8.5 s] parcours du groupe entier sur L ...
+[   14.0 s] [ok]   |<h1, h2>| = 24360 sur L
+[   14.0 s] [ok]   generateurs isometries de L
+[   15.2 s] [ok]   image modulo 2 d'ordre 12180 sur L/2L
+[   15.2 s] [ok]   f equivariante modulo 2 (generateurs)
+[   22.9 s] [ok]   L56 : 1527984 paires de norme 8
+[ 1026.3 s] [ok]   L56 : 1517130 orbites distinctes
+[ 1026.3 s] [ok]   L56 : toutes regulieres (12180 classes, 24360 vecteurs)
+[ 1026.3 s] [ok]   L56 : somme des tailles = |L_8|
+[ 1034.1 s] [ok]   L : 1528956 paires de norme 8
+[ 2093.3 s] [ok]   L : 1517130 orbites distinctes
+[ 2093.3 s] [ok]   L : toutes regulieres
+[ 2093.3 s] [ok]   L : somme des tailles = |L_8|
+[ 3249.5 s] type (8,8) : paires x de L(8) dont la classe x f contient un vecteur de norme 8 de L56 : 0
+[ 3341.6 s] [ok]   phi_L_vers_L56 : 7795200 vecteurs minimaux au signe pres, distincts (hachage), 2 x = |L_6|
+[ 3358.1 s] [ok]   phi_L_vers_L56 : tous de norme 6
+[ 3358.1 s] [ok]   phi_L_vers_L56 : normes des certificats dans {14, 18}
+[ 3358.2 s] [ok]   phi_L_vers_L56 : chaque certificat est dans la classe de son representant
+[ 3374.4 s] [ok]   phi_L_vers_L56 : max |<w0, u>| <= 6 sur tous les vecteurs minimaux
+[ 3458.5 s] [ok]   psi_L56_vers_L : 7795200 vecteurs minimaux au signe pres, distincts (hachage), 2 x = |L_6|
+[ 3475.0 s] [ok]   psi_L56_vers_L : tous de norme 6
+[ 3475.0 s] [ok]   psi_L56_vers_L : normes des certificats dans {14, 18}
+[ 3475.0 s] [ok]   psi_L56_vers_L : chaque certificat est dans la classe de son representant
+[ 3492.2 s] [ok]   psi_L56_vers_L : max |<w0, u>| <= 6 sur tous les vecteurs minimaux
+[ 3492.2 s] [ok]   les DEUX cotes impairs (phi : types (6,6), (6,10) ; psi : type (10,6)) ont ete traites
+[ 3492.2 s] BILAN : OK
+[ 3492.2 s] VERDICT X1 (regle propre a X1) : nb_touches88 = 0 ; deux cotes impairs : True ; controles : OK -> CONFORME (F1 des deux cotes a joindre : verdict_x1_v3.py)

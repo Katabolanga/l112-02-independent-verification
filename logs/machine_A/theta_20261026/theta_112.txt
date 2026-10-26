@@ -1,0 +1,24 @@
+[ok]    Delta = q - 24 q^2 + 252 q^3 - 1472 q^4 + ...
+[ok]    E4 = 1 + 240 q + 2160 q^2 + ...
+[ok]    systeme triangulaire inversible (det = 1)
+[ok]    coefficients rationnels -> entiers
+coefficients de la base E4^(14-3b) Delta^b, b = 0..4 : [1, -3360, 3517920, -1199654400, 82194386400]
+[ok]    egalite avec l'expression de roiban en A, B (jusqu'a q^N)
+[ok]    norme 10 : 10 888 335 360 (roiban)
+[ok]    norme 12 : 247 006 775 232 000 (roiban)
+SERIE THETA EXTREMALE, DIMENSION 112 (coefficient de q^m = nombre de vecteurs de norme 2m) :
+  norme 0 : 1
+  norme 2 : 0
+  norme 4 : 0
+  norme 6 : 0
+  norme 8 : 0
+  norme 10 : 10888335360
+  norme 12 : 247006775232000
+  norme 14 : 1187911731935232000
+  norme 16 : 1837981772066610324000
+  norme 18 : 1195996575532999166976000
+  norme 20 : 392999426784598003070883840
+  norme 22 : 74300134620094375664480256000
+  norme 24 : 8899394306869664176857997824000
+[ok]    coefficients des normes 10 a 2N strictement positifs
+FIN

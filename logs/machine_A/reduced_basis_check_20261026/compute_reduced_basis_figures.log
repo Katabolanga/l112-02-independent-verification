@@ -1,0 +1,10 @@
+start 2026-10-26T20:33:16Z
+reduced basis: diagonal entries from 10 to 38; 7 basis vectors of norm 10; trace 2634
+reduced basis: largest |off-diagonal entry| = 15
+reduced basis: largest |entry| of the generators s29, s4, c2, c6, T = 185
+published Gram matrix: diagonal entries from 62 to 180
+published Gram matrix equal, entry by entry, to genus_class_1.txt: True
+GRAM = P * G_published * P^T: True
+generators written in the published basis (P^-1 g P, isometries checked): largest |entry| = 2252
+exit code 0
+end 2026-10-26T20:33:32Z
